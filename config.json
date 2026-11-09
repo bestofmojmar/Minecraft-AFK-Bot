@@ -1,6 +1,7 @@
 {
   "serverHost": "PeppraSMP.aternos.me",
-  "serverPort": 48982,
-  "botUsername": "Mod_1",
-  "botChunk": 1
+  "serverPort": 25565,
+  "botUsername": "PeppraBot",
+  "botChunk": 1,
+  "version": "1.21.3"
 }
